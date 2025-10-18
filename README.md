@@ -17,7 +17,6 @@ My name is Pedro, and I’m a Python Developer and Computer Science student!
 
 ### 📫 How to Reach Me: 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedro-scheid/)  
-- 📸 [Instagram](https://www.instagram.com/pe.scheid/)  
 - 📩 [Email](mailto:pedro.scheid03@gmail.com)  
 
 ⚡ **Fun fact:** I’m a photographer in my free time!
